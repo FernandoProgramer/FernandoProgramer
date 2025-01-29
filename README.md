@@ -1,4 +1,4 @@
-# ✨ **Fernando Alfonso Amaya - Desarrollador de Software** ✨
+# ✨ **Fernando Alfonso Amaya - DESARROLLADOR FULL-STACK** ✨
 
 <!-- Imagen principal centrada -->
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 
-Soy un desarrollador de software apasionado por la tecnología y la resolución de problemas a través de soluciones innovadoras. Con experiencia en desarrollo full-stack, he trabajado con diversas tecnologías para crear aplicaciones robustas y escalables que generan impacto.
+Soy un desarrollador de software apasionado por la tecnología y la resolución de problemas a través de soluciones innovadoras. Con experiencia en <strong>DESARROLLO FULL-STACK</strong>, he trabajado con diversas tecnologías para crear aplicaciones robustas y escalables que generan impacto.
 
 ---
 
@@ -14,7 +14,7 @@ Soy un desarrollador de software apasionado por la tecnología y la resolución 
 
 ### **Lenguajes Base:**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Frontend:**
 
@@ -22,7 +22,7 @@ Soy un desarrollador de software apasionado por la tecnología y la resolución 
 
 ### **Backend:**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### **Extras:**
 
